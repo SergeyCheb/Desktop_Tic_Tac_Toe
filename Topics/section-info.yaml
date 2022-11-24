@@ -1,0 +1,30 @@
+content:
+- Lambda expressions
+- Declaring a method
+- Method references
+- Functional interfaces
+- Standard logger
+- Processing strings
+- Objects
+- Anonymous classes properties
+- The Set interface
+- Standard functional interfaces
+- Optional
+- Function composition
+- Comparator
+- Functional data processing with streams
+- Stream filtering
+- Map and flatMap
+- Reduction methods
+- Collectors
+- Infinite streams
+- Taking elements
+- Streams of primitives
+- Stream pipelines
+- Floating-point types
+- Comparable
+- Debugging techniques
+- Threads as objects
+- Custom threads
+- Thread management
+- Timers

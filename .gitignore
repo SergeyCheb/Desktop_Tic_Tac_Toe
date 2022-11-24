@@ -1,0 +1,63 @@
+# Project exclude paths
+/.gradle/
+/Desktop Tic-Tac-Toe/task/build/
+/Desktop Tic-Tac-Toe/task/out/
+/Desktop Tic-Tac-Toe/task/out/production/classes/
+/Topics/Debugging techniques/Find the error/out/
+/Topics/Debugging techniques/Find the error/out/production/classes/
+/Topics/Standard functional interfaces/Ternary operator/out/
+/Topics/Standard functional interfaces/Ternary operator/out/production/classes/
+/Topics/Standard functional interfaces/Theory/out/
+/Topics/Standard functional interfaces/Theory/out/production/classes/
+/Topics/Standard logger/Find integer values of Log levels/out/
+/Topics/Standard logger/Find integer values of Log levels/out/production/classes/
+/Topics/Standard logger/Theory/out/
+/Topics/Standard logger/Theory/out/production/classes/
+/Topics/Stream filtering/Bad words detecting/out/
+/Topics/Stream filtering/Bad words detecting/out/production/classes/
+/Topics/Stream filtering/Check if a number is prime/out/
+/Topics/Stream filtering/Check if a number is prime/out/production/classes/
+/Topics/Stream filtering/Numbers filtering/out/
+/Topics/Stream filtering/Numbers filtering/out/production/classes/
+/Topics/Stream filtering/Omitting long strings/out/
+/Topics/Stream filtering/Omitting long strings/out/production/classes/
+/Topics/Stream filtering/Theory/out/
+/Topics/Stream filtering/Theory/out/production/classes/
+/Topics/Stream pipelines/The sum of odd numbers/out/
+/Topics/Stream pipelines/The sum of odd numbers/out/production/classes/
+/Topics/Stream pipelines/The ten most frequent words/out/
+/Topics/Stream pipelines/The ten most frequent words/out/production/classes/
+/Topics/Stream pipelines/The total number of employees/out/
+/Topics/Stream pipelines/The total number of employees/out/production/classes/
+/Topics/Stream pipelines/The total sum of canceled transactions/out/
+/Topics/Stream pipelines/The total sum of canceled transactions/out/production/classes/
+/Topics/Stream pipelines/Theory/out/
+/Topics/Stream pipelines/Theory/out/production/classes/
+/Topics/Stream pipelines/Using streams many times/out/
+/Topics/Stream pipelines/Using streams many times/out/production/classes/
+/Topics/Streams of primitives/A stream without zero/out/
+/Topics/Streams of primitives/A stream without zero/out/production/classes/
+/Topics/Streams of primitives/The average salary/out/
+/Topics/Streams of primitives/The average salary/out/production/classes/
+/Topics/Streams of primitives/Theory/out/
+/Topics/Streams of primitives/Theory/out/production/classes/
+/Topics/Taking elements/Secret codes/out/
+/Topics/Taking elements/Secret codes/out/production/classes/
+/Topics/Taking elements/Sorting and skipping numbers/out/
+/Topics/Taking elements/Sorting and skipping numbers/out/production/classes/
+/Topics/Taking elements/Theory/out/
+/Topics/Taking elements/Theory/out/production/classes/
+/Topics/The Set interface/Creating a set/out/
+/Topics/The Set interface/Creating a set/out/production/classes/
+/Topics/The Set interface/Output elements/out/
+/Topics/The Set interface/Output elements/out/production/classes/
+/Topics/The Set interface/Removing elements/out/
+/Topics/The Set interface/Removing elements/out/production/classes/
+/Topics/The Set interface/Spell checker/out/
+/Topics/The Set interface/Spell checker/out/production/classes/
+/Topics/The Set interface/Strict superset/out/
+/Topics/The Set interface/Strict superset/out/production/classes/
+/Topics/The Set interface/Symmetric difference/out/
+/Topics/The Set interface/Symmetric difference/out/production/classes/
+/Topics/The Set interface/Theory/out/
+/Topics/The Set interface/Theory/out/production/classes/
